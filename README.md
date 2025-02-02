@@ -1,4 +1,3 @@
-# Documentación del proyecto
 # Ventajas de esta estructura:
 
 # Modularidad: 
