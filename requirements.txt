@@ -1,0 +1,10 @@
+#Es una convención común en Python crear un archivo llamado 
+#requirements.txt en el que se listan las dependencias del proyecto
+
+#De esta forma, otro desarrollador (o tú mismo en otro entorno)
+# puede instalar todas las dependencias ejecutando:
+
+#pip install -r requirements.txt
+
+fastapi==0.115.8
+uvicorn==0.34.0

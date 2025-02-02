@@ -1,0 +1,1 @@
+# Definición de modelos de datos (p. ej., con Pydantic)
